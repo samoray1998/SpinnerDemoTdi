@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpinnerDemoTdi</string>
+    <string-array name="Numbers">
+        <item>one</item>
+        <item>tow</item>
+        <item>tree</item>
+    </string-array>
+</resources>
